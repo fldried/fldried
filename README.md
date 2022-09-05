@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+##       📊 GitHub:
+
 <details open> <!-- GitHub Stats -->
   <summary>
     <b>
