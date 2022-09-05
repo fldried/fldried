@@ -1,23 +1,17 @@
-<!--
-![Header](https://somelink_here.png)
--->
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<details open> <!-- Logo -->
+  <summary>
+    <b>
+      Header
+    </b>
+  </summary>
 
-<!--
-**t0w0ru/t0w0ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    <img height="50%" width="auto" playbackrate="2.0" src="https://steamuserimages-a.akamaihd.net/ugc/1014941863325372528/1C8FEAB0D57AF71E5FAD7F2A62828144E278DF92/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+    <img height="50%" width="auto" src="https://steamuserimages-a.akamaihd.net/ugc/1014941863325376212/366D92BE622176D1EF9CD4E9853016FBDCC0528B/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+  </p>
+</details>
 
 ##       📊 GitHub:
 
