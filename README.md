@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details> <!-- GitHub Stats -->
+<details open> <!-- GitHub Stats -->
   <summary>
     <b>
       &#x1f4c8; GitHub Stats:
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 </details>
 
 
-<details> <!-- Projects/Contributions -->
+<details open> <!-- Projects/Contributions -->
   <summary>
     <b>
       📂 Some Projects I worked on:
