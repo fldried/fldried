@@ -42,6 +42,23 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
   -->
 
 
+## 📂 Some Projects I worked on:
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=t0w0ru&repo=mon&show_owner=false&theme=radical&border_radius=15&hide_border=true">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=t0w0ru&repo=largescaleitandcloudcomputing&show_owner=false&theme=radical&border_radius=15&hide_border=true">
+</p>
+<p align="center">
+  <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=t0w0ru&repo=mct_discord_led&show_owner=false&theme=radical&border_radius=15&hide_border=true">
+  <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=Microsoft365DSC&show_owner=false&theme=radical&border_radius=15&hide_border=true">
+</p>
+
+<!--
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=t0w0ru&repo=mon&show_owner=false&theme=radical&border_radius=15&hide_border=true)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=t0w0ru&repo=largescaleitandcloudcomputing&show_owner=false&theme=radical&border_radius=15&hide_border=true)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=t0w0ru&repo=mct_discord_led&show_owner=false&theme=radical&border_radius=15&hide_border=true)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=Microsoft365DSC&show_owner=false&theme=radical&border_radius=15&hide_border=true)
+-->
+
 ## ⚙ Applications and Data:
 <table>
   <tr></tr> <!-- adds an underline when using ## instead of ### -->
