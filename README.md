@@ -230,7 +230,7 @@
   | <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudio.svg" /> Visual Studio 2022 |
   | <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" /> Visual Studio Code |
   | <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/clion.svg" /> CLion |
-  | <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/clion.svg" /> CLion |
+  | <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/datagrip.svg" /> DataGrip |
   | <img height="18" width="18" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vim.svg" /> Vim |
 </details>
   
