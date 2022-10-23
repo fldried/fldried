@@ -27,15 +27,15 @@
   https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
   -->
   <p align="center">
-    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=t0w0ru&include_all_commits=true&count_private=true&show_icons=true&theme=radical&border_radius=15&hide_border=true&bg_color=FFFFFF00"/>
-    <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=t0w0ru&theme=radical&border_radius=15&hide_border=true&hide=makefile&langs_count=3&bg_color=FFFFFF00"/>
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=fldried&include_all_commits=true&count_private=true&show_icons=true&theme=radical&border_radius=15&hide_border=true&bg_color=FFFFFF00"/>
+    <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fldried&theme=radical&border_radius=15&hide_border=true&hide=makefile&langs_count=3&bg_color=FFFFFF00"/>
   </p>
   
   <p align="center">
-    <img src ="https://github-readme-streak-stats.herokuapp.com?user=t0w0ru&theme=radical&border_radius=15&hide_border=true&background=FFFFFF00">
+    <img src ="https://github-readme-streak-stats.herokuapp.com?user=fldried&theme=radical&border_radius=15&hide_border=true&background=FFFFFF00">
   </p>
   <!-- displays a repository
-  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=t0w0ru&repo=mct_discord_led&show_owner=false&theme=radical&border_radius=15&hide_border=true)
+  ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fldried&repo=mct_discord_led&show_owner=false&theme=radical&border_radius=15&hide_border=true)
   -->
 </details>
 
@@ -48,12 +48,12 @@
   </summary>
   <!-- ## 📂 Some Projects I worked on: -->
   <p align="center">
-    <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=t0w0ru&repo=MCT-Discordbot-controlled-LEDs&show_owner=false&theme=radical&border_radius=15&hide_border=true">
+    <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=fldried&repo=MCT-Discordbot-controlled-LEDs&show_owner=false&theme=radical&border_radius=15&hide_border=true">
     <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=Microsoft365DSC&show_owner=false&theme=radical&border_radius=15&hide_border=true">
   </p>
   <p align="center">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=t0w0ru&repo=mon&show_owner=false&theme=radical&border_radius=15&hide_border=true">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=t0w0ru&repo=largescaleitandcloudcomputing&show_owner=false&theme=radical&border_radius=15&hide_border=true">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=fldried&repo=mon&show_owner=false&theme=radical&border_radius=15&hide_border=true">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=fldried&repo=largescaleitandcloudcomputing&show_owner=false&theme=radical&border_radius=15&hide_border=true">
   </p>
 </details>
 
