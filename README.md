@@ -26,16 +26,14 @@
   -->
 </details>
 
-
-<details open> <!-- Projects/Contributions -->
+<!--
+<details open> 
   <summary>
     <b>
       📂 Some Projects I worked on or contributed to:
     </b>
   </summary>
-  <!-- ## 📂 Some Projects I worked on: -->
   <p align="center">
-    <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=fldried&repo=MCT-Discordbot-controlled-LEDs&show_owner=false&theme=radical&border_radius=15&hide_border=true&bg_color=00000000">
     <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=Microsoft365DSC&show_owner=false&theme=radical&border_radius=15&hide_border=true&bg_color=00000000">
   </p>
   <p align="center">
@@ -43,3 +41,4 @@
     <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=fldried&repo=largescaleitandcloudcomputing&show_owner=false&theme=radical&border_radius=15&hide_border=true&bg_color=00000000">
   </p>
 </details>
+-->
